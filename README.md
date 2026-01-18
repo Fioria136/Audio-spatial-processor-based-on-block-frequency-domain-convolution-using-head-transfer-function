@@ -1,2 +1,17 @@
 # Audio-spatial-processor-based-on-block-frequency-domain-convolution-using-head-transfer-function
 This project is based on the block frequency domain convolution of the head transfer function to spatially process the input audio.
+## Third-Party Data
+﻿
+This project is based on data derived from the SADIE Database.
+﻿
+Original database:
+SADIE Database
+Copyright 2018, University of York
+Licensed under the Apache License, Version 2.0
+﻿
+This project uses a simplified and modified version of the data.
+The original project is not affiliated with or endorsed by
+the University of York.
+﻿
+See:  https://www.apache.org/licenses/LICENSE-2.0
+﻿
